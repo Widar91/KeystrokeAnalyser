@@ -1,4 +1,4 @@
-package it.unito.di.educ.bachelor_thesis.Utils;
+package it.unito.di.educ.bachelor_thesis.utils;
 
 import it.unito.di.educ.bachelor_thesis.data_collection.Sample;
 import it.unito.di.educ.bachelor_thesis.data_collection.UserCollector;

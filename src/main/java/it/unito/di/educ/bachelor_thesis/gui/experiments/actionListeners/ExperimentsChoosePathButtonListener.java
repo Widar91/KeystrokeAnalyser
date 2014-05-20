@@ -1,8 +1,8 @@
 package it.unito.di.educ.bachelor_thesis.gui.experiments.actionListeners;
 
-import it.unito.di.educ.bachelor_thesis.Utils.Options;
-import it.unito.di.educ.bachelor_thesis.Utils.Utils;
 import it.unito.di.educ.bachelor_thesis.gui.experiments.ExperimentsPanel;
+import it.unito.di.educ.bachelor_thesis.utils.Options;
+import it.unito.di.educ.bachelor_thesis.utils.Utils;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

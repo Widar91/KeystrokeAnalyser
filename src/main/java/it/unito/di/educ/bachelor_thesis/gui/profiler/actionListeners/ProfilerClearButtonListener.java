@@ -1,7 +1,7 @@
 package it.unito.di.educ.bachelor_thesis.gui.profiler.actionListeners;
 
 
-import it.unito.di.educ.bachelor_thesis.Main.SystemController;
+import it.unito.di.educ.bachelor_thesis.main.SystemController;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

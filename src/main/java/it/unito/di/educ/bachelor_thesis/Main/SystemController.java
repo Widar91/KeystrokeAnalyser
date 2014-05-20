@@ -1,7 +1,5 @@
-package it.unito.di.educ.bachelor_thesis.Main;
+package it.unito.di.educ.bachelor_thesis.main;
 
-import it.unito.di.educ.bachelor_thesis.Utils.Options;
-import it.unito.di.educ.bachelor_thesis.Utils.Utils;
 import it.unito.di.educ.bachelor_thesis.data_collection.Keystroke;
 import it.unito.di.educ.bachelor_thesis.data_collection.Sample;
 import it.unito.di.educ.bachelor_thesis.data_collection.UserCollector;
@@ -20,6 +18,8 @@ import it.unito.di.educ.bachelor_thesis.gui.profiler.actionListeners.ProfilerInp
 import it.unito.di.educ.bachelor_thesis.gui.profiler.actionListeners.ProfilerKeyPressedListener;
 import it.unito.di.educ.bachelor_thesis.gui.profiler.actionListeners.ProfilerOKButtonListener;
 import it.unito.di.educ.bachelor_thesis.gui.profiler.actionListeners.ProfilerTaskComboBoxListener;
+import it.unito.di.educ.bachelor_thesis.utils.Options;
+import it.unito.di.educ.bachelor_thesis.utils.Utils;
 
 import java.awt.Color;
 import java.io.IOException;

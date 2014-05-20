@@ -1,6 +1,6 @@
 package it.unito.di.educ.bachelor_thesis.experiments;
 
-import it.unito.di.educ.bachelor_thesis.Utils.Options;
+import it.unito.di.educ.bachelor_thesis.utils.Options;
 
 import java.text.DecimalFormat;
 

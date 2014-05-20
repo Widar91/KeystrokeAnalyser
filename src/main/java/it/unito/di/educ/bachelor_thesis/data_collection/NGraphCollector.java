@@ -1,6 +1,6 @@
 package it.unito.di.educ.bachelor_thesis.data_collection;
 
-import it.unito.di.educ.bachelor_thesis.Utils.Options;
+import it.unito.di.educ.bachelor_thesis.utils.Options;
 
 /**
  * This class implements a circular buffer for the collection of NGraphSets.

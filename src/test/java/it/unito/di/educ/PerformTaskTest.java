@@ -1,14 +1,14 @@
 package it.unito.di.educ;
 
 
-import it.unito.di.educ.bachelor_thesis.Main.SystemController;
-import it.unito.di.educ.bachelor_thesis.Utils.Options;
-import it.unito.di.educ.bachelor_thesis.Utils.Utils;
 import it.unito.di.educ.bachelor_thesis.data_collection.Sample;
 import it.unito.di.educ.bachelor_thesis.data_collection.UserCollector;
 import it.unito.di.educ.bachelor_thesis.data_collection.users.User;
 import it.unito.di.educ.bachelor_thesis.experiments.Distance;
 import it.unito.di.educ.bachelor_thesis.experiments.PerformTasks;
+import it.unito.di.educ.bachelor_thesis.main.SystemController;
+import it.unito.di.educ.bachelor_thesis.utils.Options;
+import it.unito.di.educ.bachelor_thesis.utils.Utils;
 
 import org.junit.After;
 import org.junit.Before;

@@ -1,8 +1,8 @@
 package it.unito.di.educ.bachelor_thesis.gui.profiler.actionListeners;
 
-import it.unito.di.educ.bachelor_thesis.Main.SystemController;
 import it.unito.di.educ.bachelor_thesis.data_collection.Keystroke;
 import it.unito.di.educ.bachelor_thesis.gui.profiler.ProfilerPanel;
+import it.unito.di.educ.bachelor_thesis.main.SystemController;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

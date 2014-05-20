@@ -1,6 +1,6 @@
 package it.unito.di.educ.bachelor_thesis.data_collection;
 
-import it.unito.di.educ.bachelor_thesis.Utils.Options;
+import it.unito.di.educ.bachelor_thesis.utils.Options;
 
 import java.util.Iterator;
 import java.util.LinkedList;

@@ -1,8 +1,8 @@
 package it.unito.di.educ.bachelor_thesis.data_collection;
 
-import it.unito.di.educ.bachelor_thesis.Main.SystemController;
 import it.unito.di.educ.bachelor_thesis.data_collection.users.Impostor;
 import it.unito.di.educ.bachelor_thesis.data_collection.users.User;
+import it.unito.di.educ.bachelor_thesis.main.SystemController;
 
 import java.io.File;
 import java.util.LinkedList;

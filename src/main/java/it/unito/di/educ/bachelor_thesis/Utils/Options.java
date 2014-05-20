@@ -1,4 +1,4 @@
-package it.unito.di.educ.bachelor_thesis.Utils;
+package it.unito.di.educ.bachelor_thesis.utils;
 
 /**
  * Utility class for the storage of the various options for the experiments.

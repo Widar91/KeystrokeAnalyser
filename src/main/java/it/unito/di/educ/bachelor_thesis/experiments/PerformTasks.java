@@ -1,11 +1,11 @@
 package it.unito.di.educ.bachelor_thesis.experiments;
 
-import it.unito.di.educ.bachelor_thesis.Utils.Options;
 import it.unito.di.educ.bachelor_thesis.data_collection.Sample;
 import it.unito.di.educ.bachelor_thesis.data_collection.UserCollector;
 import it.unito.di.educ.bachelor_thesis.data_collection.users.AbstractUser;
 import it.unito.di.educ.bachelor_thesis.data_collection.users.Impostor;
 import it.unito.di.educ.bachelor_thesis.data_collection.users.User;
+import it.unito.di.educ.bachelor_thesis.utils.Options;
 
 import java.util.TreeMap;
 

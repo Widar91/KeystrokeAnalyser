@@ -1,11 +1,11 @@
 package it.unito.di.educ.bachelor_thesis.experiments;
 
-import it.unito.di.educ.bachelor_thesis.Utils.Options;
-import it.unito.di.educ.bachelor_thesis.Utils.Utils;
 import it.unito.di.educ.bachelor_thesis.data_collection.NGraph;
 import it.unito.di.educ.bachelor_thesis.data_collection.NGraphSet;
 import it.unito.di.educ.bachelor_thesis.data_collection.Sample;
 import it.unito.di.educ.bachelor_thesis.data_collection.users.User;
+import it.unito.di.educ.bachelor_thesis.utils.Options;
+import it.unito.di.educ.bachelor_thesis.utils.Utils;
 
 import java.util.Arrays;
 import java.util.Comparator;

@@ -1,9 +1,9 @@
 package it.unito.di.educ.bachelor_thesis.data_collection;
 
 
-import it.unito.di.educ.bachelor_thesis.Main.SystemController;
-import it.unito.di.educ.bachelor_thesis.Utils.Options;
-import it.unito.di.educ.bachelor_thesis.Utils.Utils;
+import it.unito.di.educ.bachelor_thesis.main.SystemController;
+import it.unito.di.educ.bachelor_thesis.utils.Options;
+import it.unito.di.educ.bachelor_thesis.utils.Utils;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

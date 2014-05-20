@@ -1,9 +1,9 @@
-package it.unito.di.educ.bachelor_thesis.Utils;
+package it.unito.di.educ.bachelor_thesis.utils;
 
 
-import it.unito.di.educ.bachelor_thesis.Main.SystemController;
 import it.unito.di.educ.bachelor_thesis.data_collection.Keystroke;
 import it.unito.di.educ.bachelor_thesis.experiments.Results;
+import it.unito.di.educ.bachelor_thesis.main.SystemController;
 
 import java.io.BufferedWriter;
 import java.io.File;

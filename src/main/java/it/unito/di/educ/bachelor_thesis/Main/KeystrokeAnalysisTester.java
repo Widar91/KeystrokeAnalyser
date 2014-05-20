@@ -1,4 +1,4 @@
-package it.unito.di.educ.bachelor_thesis.Main;
+package it.unito.di.educ.bachelor_thesis.main;
 
 
 
